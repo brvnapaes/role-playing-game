@@ -34,8 +34,6 @@ Your goal is to **level up**, **defeat monsters**, and **slay the dragon**!
 - CSS3
 - JavaScript (no frameworks)
 
-## 🚀 How to Run
+## 🚀 Where to Play
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/brvnapaes/rpg-adventure-game.git
+https://brvnapaes.github.io/role-playing-game/
